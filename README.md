@@ -27,13 +27,14 @@ VS Code, Git, Github y Python
 •	Métodos o funciones.  
 •	Arreglos unidimensionales.  
 •	Arreglos bidimensionales.
-## PROGRAMACIÓN ORIENTADA A OBJETOS	•	Clases, objetos, definición de una clase, creación de objetos, 
+## PROGRAMACIÓN ORIENTADA A OBJETOS	
+•	Clases, objetos, definición de una clase, creación de objetos, 
 •	Métodos
 •	Herencia
 •	Referencia, this, super
 •	Interfaces.
 
 
-
+# Logotipo
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
