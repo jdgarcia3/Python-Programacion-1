@@ -7,12 +7,12 @@ VS Code, Git, Github y Python
 
 # Temas
 
-LENGUAJES DE PROGRAMACIÓN	
+## LENGUAJES DE PROGRAMACIÓN	
 •	Algoritmos y fundamentos
 •	Características de los lenguajes de programación, 
 •	Sintaxis
 •	Estructura de un programa.
-ESTRUCTURA DE DATOS BÁSICOS	
+## ESTRUCTURA DE DATOS BÁSICOS	
 •	Tipos de datos
 •	Conversiones entre tipos de datos
 •	Operadores
@@ -21,13 +21,13 @@ ESTRUCTURA DE DATOS BÁSICOS
 •	Cadenas de caracteres, concatenación
 •	Subcadenas
 •	Ámbito de las variables.
-ESTRUCTURAS DE CONTROL Y MÉTODOS	
+## ESTRUCTURAS DE CONTROL Y MÉTODOS	
 •	Estructuras de control de selección (if, if-else, switch)
 •	Estructuras de control de repetición (while, do-while, for), break, continue.  
 •	Métodos o funciones.  
 •	Arreglos unidimensionales.  
 •	Arreglos bidimensionales.
-PROGRAMACIÓN ORIENTADA A OBJETOS	•	Clases, objetos, definición de una clase, creación de objetos, 
+## PROGRAMACIÓN ORIENTADA A OBJETOS	•	Clases, objetos, definición de una clase, creación de objetos, 
 •	Métodos
 •	Herencia
 •	Referencia, this, super
