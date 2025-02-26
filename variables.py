@@ -11,5 +11,6 @@ print(type(estado))
 parrafo = """
 Docente: Jesús David García Caro
 Correo: jgarcia3@unisangil.edu.co
+celular: 2345678876543
 """
 print(type(parrafo))
