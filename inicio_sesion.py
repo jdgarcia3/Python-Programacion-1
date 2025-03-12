@@ -8,4 +8,7 @@ contrasena = int(input("Contraseña: "))
 print(type(contrasena))
 #Validacion
 #Operadores de comparación
-print(david == usuario and password == contrasena)
+if (david == usuario and password == contrasena):
+    print("Bienvenido Sistema")
+else:
+    print("Usuario o contraseña incorrectos")
