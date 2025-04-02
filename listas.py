@@ -57,3 +57,15 @@ print(Numeros)
 #Seperar datos de la lista con for
 for dato in Numeros:
     print(f"Dato: {dato}")
+
+Lista1 = [10, 2, 30, 4, 5, 1]
+print(Lista1)
+#Invertir datos de una lista
+Lista1.reverse()
+print(Lista1)
+#Ordenar datos de una lista
+Lista1.sort()#de menor a mayor
+print(Lista1)
+#Ordenar datos descendente
+Lista1.sort(reverse=True)#de mayor a menor
+print(Lista1)
