@@ -42,3 +42,18 @@ Numeros.insert(-1, 6)#pos, dato
 print(Numeros)
 tamaño_numeros = len(Numeros)
 print(f"Tamaño lista: {tamaño_numeros}")
+#Eliminar datos de la lista
+Numeros.remove("Unisangil")
+print(Numeros)
+Numeros.remove(1)
+print(Numeros)
+tamaño_numeros = len(Numeros)
+print(f"Tamaño lista: {tamaño_numeros}")
+#Eliminar el último elemento
+Numeros.pop()
+print(Numeros)
+Numeros[1:3] = []#eliminar del 2 al 3
+print(Numeros)
+#Seperar datos de la lista con for
+for dato in Numeros:
+    print(f"Dato: {dato}")
