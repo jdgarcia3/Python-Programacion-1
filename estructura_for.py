@@ -22,3 +22,15 @@ for letra in x:
 #Ejemplo 1: tabla de multiplicar
 for mul in range(1,11):
     print(f"2 x {mul} = {2 * mul}")
+
+#Ejemplo 2: tabla de multiplicar
+numero = int(input("Ingrese un número de tabla de multiplicar: "))
+for mul in range(1,11):
+    print(f"{numero} x {mul} = {numero * mul}")
+
+#Ejemplo 3: numeros pares e impares
+for i in range(1, 11):
+    if i % 2 == 0:
+        print(f"{i} es par")
+    else:
+        print(f"{i} es impar")
