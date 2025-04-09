@@ -1,0 +1,25 @@
+{
+    "docente" : {
+        "nombre" : "Carlos",
+        "apellido" : "Gonzalez",
+        "telefono" : 4536748,
+        "correo" : "ftgyug@gmail.com"
+    },
+    "estudiantes" : [
+        {
+            "nombre" : "Juan",
+            "apellido" : "Pérez",
+            "cedula" : 1234567890,
+            "correo" : "ftuyg@gmai.com"
+        },
+        {
+            "nombre" : "Camila",
+            "apellido" : "Rosas",
+            "cedula" : 1234545690,
+            "correo" : "huhgjrkl@gmai.com"
+        }
+    ],
+    "codigo" : "PROG-101",
+    "creditos" : 3,
+    "estado" : 1
+}
