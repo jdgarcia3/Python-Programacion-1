@@ -39,4 +39,14 @@ print(f"Matriz multiplicacion: {Matriz_Multiplicacion}")
 Matriz_Resta = Matriz_A - Matriz_B
 print(f"Matriz resta: {Matriz_Resta}")
 
+#Propiedades de la matriz
+#Shape
+print(f"Filas*Columnas: {Matriz_B.shape}")
+#Size
+print(f"Numero de datos: {Matriz_B.size}")
+#Dtype
+print(f"Tipo de datos: {Matriz_B.dtype}")
+#ndim
+print(f"Numero de dimensiones: {Matriz_B.ndim}")
+
         
