@@ -60,3 +60,4 @@ Pedro = Estudiante("Pedro", 22, "Medicina")
 #Llamar a los metodos de la clase estudiante
 Juan.mostrar_informacion()
 Pedro.estudiar()
+#Fin de ejecución
