@@ -61,3 +61,4 @@ Pedro = Estudiante("Pedro", 22, "Medicina")
 Juan.mostrar_informacion()
 Pedro.estudiar()
 #Fin de ejecución
+#test
